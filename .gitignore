@@ -1,0 +1,16 @@
+# .gitignore
+
+# Environment
+venv/
+.venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build artifacts
+build/
+dist/
+html/
+*.egg-info
