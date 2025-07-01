@@ -1,0 +1,7 @@
+ttkthemes
+selenium
+pandas
+PyMuPDF
+openpyxl
+roman
+webdriver-manager
