@@ -14,3 +14,4 @@ build/
 dist/
 html/
 *.egg-info
+.ico
