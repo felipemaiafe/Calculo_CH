@@ -14,5 +14,5 @@ build/
 dist/
 html/
 *.egg-info
+*.spec
 .ico
-.spec
