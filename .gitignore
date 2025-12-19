@@ -18,5 +18,5 @@ dist/
 html/
 *.egg-info
 *.spec
-.ico
-.pdf
+*.ico
+*.pdf
